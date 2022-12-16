@@ -1,0 +1,11 @@
+{
+  "exp_shop.msg.id_not_found": "未找到id为%d的物品，请检查后重试。",
+  "exp_shop.msg.found_id": "ID:%d, 名字:%d, 经验:%d, 数量:%d",
+  "exp_shop.msg.view_all_start": "经验商店有以下物品：",
+  "exp_shop.msg.view_all_piece": ". 物品:%d 价格:%d经验 数量:%d",
+  "exp_shop.msg.view_all_none": "经验商店里没有东西。",
+  "exp_shop.msg.buy_fail_exp": "购买失败。因为你没有足够的经验。",
+  "exp_shop.msg.buy_fail_empty": "购买失败。因为你没有足够的位置。",
+  "exp_shop.msg.buy_fail_count": "购买失败。因为数量太多或太少",
+  "exp_shop.msg.buy_success": "购买成功。"
+}

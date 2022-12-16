@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "exp_shop",
+  "version": "1.0.0",
+
+  "name": "Exp Shop",
+  "description": "Use experience to purchase items.",
+  "authors": [
+    "Ling_Yuan"
+  ],
+
+  "license": "GPL 2",
+  "icon": "assets/exp_shop/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "top.furryliy.exp_shop.ExpShop"
+    ],
+    "client": [
+      "top.furryliy.exp_shop.Client"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

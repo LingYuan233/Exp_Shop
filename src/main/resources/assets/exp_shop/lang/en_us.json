@@ -1,0 +1,12 @@
+{
+  "exp_shop.msg.id_not_found": "No article with %d was found. Please check and try again.",
+  "exp_shop.msg.found_id": "ID:%d, Item:%d, Exp:%d, Count:%d",
+  "exp_shop.msg.view_all_start": "The current experience store has the following items:",
+  "exp_shop.msg.view_all_piece": ". Item:%d Price:%d. Count:%d",
+  "exp_shop.msg.view_all_none": "None in the experience store.",
+  "exp_shop.msg.buy_fail_exp": "Buy fail. Because you don't have enough experience.",
+  "exp_shop.msg.buy_fail_empty": "Buy fail. Because you don't have empty slot.",
+  "exp_shop.msg.buy_fail_count": "Buy fail. Because quantity to buy too much or too little.",
+  "exp_shop.msg.buy_success": "Buy Success."
+
+}
